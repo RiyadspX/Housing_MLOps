@@ -1,0 +1,17 @@
+{
+  "feature_names": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "mainroad",
+    "guestroom",
+    "basement",
+    "hotwaterheating",
+    "airconditioning",
+    "parking",
+    "prefarea",
+    "furnishingstatus_semi-furnished",
+    "furnishingstatus_unfurnished"
+  ]
+}
